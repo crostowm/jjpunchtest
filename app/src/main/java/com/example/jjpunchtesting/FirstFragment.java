@@ -10,7 +10,7 @@ import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
 import com.example.jjpunchtesting.databinding.FragmentFirstBinding;
-// Test Comment
+// Test Comment 2
 public class FirstFragment extends Fragment {
 
     private FragmentFirstBinding binding;
